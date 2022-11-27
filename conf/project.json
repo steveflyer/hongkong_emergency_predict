@@ -1,0 +1,7 @@
+{
+  "file_config":
+  {
+    "data_dir": "../data",
+    "visual_output_dir": "../visualization"
+  }
+}
